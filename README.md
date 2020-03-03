@@ -1,3 +1,7 @@
+Here is a link to the app with restaurants list :
+https://suspicious-jepsen-83e2e9.netlify.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
